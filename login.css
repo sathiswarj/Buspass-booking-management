@@ -1,0 +1,75 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.form{
+font-family: 'Poppins', sans-serif;}
+ <style>
+      .col-lg-6.d-none.d-lg-block.bg-login-image {
+    padding-left: 325px;
+    padding-bottom: 369px;
+    margin-top: 38px;
+}
+
+         .form-container{
+    background: #76c7ae;
+    font-family: 'Nunito', sans-serif;
+    padding: 40px;
+    margin-top:68px;
+    border-radius: 20px;
+    box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
+}
+   .p-5 {
+    padding: 3rem!important;
+    margin-right: 273px;
+    margin-left: -196px;
+
+}
+/*.background{
+    background-color:black;
+}*/
+.row {
+    padding-top: 59px;
+    padding-bottom: 115px;
+    padding-left: 35px;
+    padding-right: -28px;
+}
+.form{
+      background-image: url('1943050.jpg');
+      background-blend-mode: all;
+      background-repeat: no-repeat;
+      padding-bottom:115px;
+
+
+}
+.card-body{
+  padding-bottom: 70px;
+}
+.navbar{
+  --bs-navbar-nav-link-padding-x:1.5rem;
+}
+img.logo {
+    height: 248px;
+    width: 276px;
+    margin-left: -21px;
+}
+p {
+    margin-top: 23px;
+    margin-bottom: 1rem;
+    font-size: 15px;
+}
+[type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    padding-top: 1px;
+    padding-right: 66px;
+    margin-top: 19px;
+    margin-left: 86px;
+    padding-left: 65px;
+    margin-left: 57px;
+}
+.p-5 {
+    padding: 2rem!important;
+    margin-right: -192px;
+    margin-left: 297px;
+}
+.card-body.p-0 {
+    background-image:url(pxfuel.jpg);
+}
